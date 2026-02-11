@@ -1,0 +1,9 @@
+{
+  "name": "multisig-wallet-lite",
+  "version": "1.0.0",
+  "description": "Minimal Multi-Signature Wallet Smart Contract",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
